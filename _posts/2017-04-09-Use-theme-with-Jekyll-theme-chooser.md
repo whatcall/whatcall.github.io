@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creating a GitHub Pages site with the Jekyll Theme Chooser"
-date:   2017-04-09 19:55:00 -0600
+date:   2017-04-09 20:23:00
 categories: jekyll use
 ---
 
