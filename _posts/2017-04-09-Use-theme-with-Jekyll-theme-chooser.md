@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Creating a GitHub Pages site with the Jekyll Theme Chooser"
-date:   2017-04-09 20:23:00
-categories: jekyll use
+title:  "How to write the first article on github"
+date:   2019-04-09 20:23:00
+categories: Blog Writing
 ---
 
-## Creating a GitHub Pages site with the Jekyll Theme Chooser
+## Use Jekyll and github code repository
 
 ```You can create a GitHub Pages site with the Jekyll Theme Chooser using a new or existing site repository.```
 
